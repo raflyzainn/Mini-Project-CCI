@@ -1,12 +1,20 @@
-# React + Vite
+# 🛒 MiniStore — React E-commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MiniStore is a minimalist e-commerce web application built with **React**, **Redux**, and **Tailwind CSS**. This project demonstrates fundamental e-commerce features such as product listing, cart management, checkout flow, and product detail pages.
 
-Currently, two official plugins are available:
+## 🔥 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌐 Home Dashboard with hero section
+- 📦 Product listing with API from [FakeStoreAPI](https://fakestoreapi.com/)
+- 🛍️ Add to Cart & Cart management using Redux
+- ✅ Checkout form with validation
+- 🔍 Product detail page with recommendations & reviews
+- 🎨 Minimalist dark theme with purple-black tone
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**
+- **React Router**
+- **Redux Toolkit**
+- **Tailwind CSS**
+- **FakeStoreAPI**
